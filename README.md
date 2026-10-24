@@ -1,6 +1,8 @@
 # sdd2
 Aplicativo SDD2
 
+Repositório: [github.com/ricardovarellatek/sdd2](https://github.com/ricardovarellatek/sdd2)
+
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
