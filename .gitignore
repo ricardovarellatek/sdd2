@@ -1,0 +1,33 @@
+# Dependências
+node_modules/
+
+# Ambientes virtuais Python
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Senhas, chaves e credenciais
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+*secret*
+*secrets*
+*password*
+*passwords*
+*senha*
+*senhas*
+*credential*
+*credentials*
+*.kdbx
